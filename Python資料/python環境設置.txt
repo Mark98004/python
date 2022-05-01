@@ -1,0 +1,15 @@
+離線寫python:
+    1.python官方網站：https://www.python.org/       
+    2.anaconda官方網站：https://www.anaconda.com/products/individual
+    3.vscode官方網站：https://code.visualstudio.com/
+    4.PyCharm官方網站 ：https://www.jetbrains.com/pycharm/
+    5.thonny官方網站：https://thonny.org/
+
+線上寫python:
+    1.colab：https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
+    2.replit：https://replit.com/languages/python3
+    3.codingground：https://www.tutorialspoint.com/execute_python3_online.php
+    4.程式框框：https://www.taiwancodeschool.com/writecode
+
+影片:
+    Python 簡介、安裝、與快速開始 https://www.youtube.com/watch?v=wqRlKVRUV_k&t=5s
